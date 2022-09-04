@@ -1,11 +1,11 @@
 # Beggining with Go
 ![Golang](https://img.shields.io/badge/GOLANG-1.19-brightgreen)
 
-Golang workshop using BoardGameAtlas with Event hosted by GeeksHacking   
+Golang workshop using BoardGameAtlas <br/>
+Event hosted by GeeksHacking
 
-https://www.boardgameatlas.com/
-https://www.boardgameatlas.com/api/docs
-
+[Board Game Atlas URL](https://www.boardgameatlas.com/) <br/>
+[Board Game Atlast API DOCS URL](https://www.boardgameatlas.com/api/docs)
 ## Setup
 
 
