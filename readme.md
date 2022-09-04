@@ -1,4 +1,5 @@
 # Beggining with Go
+![Golang](https://img.shields.io/badge/GOLANG-1.19-brightgreen)
 
 Golang workshop using BoardGameAtlas with Event hosted by GeeksHacking   
 
